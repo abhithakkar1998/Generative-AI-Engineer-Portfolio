@@ -30,3 +30,26 @@ referencing
 
 streamlit
 scikeras
+
+langchain
+langchain_community
+langchain-text-splitters
+langchain-openai
+langchain-ollama
+
+openai
+ipykernel
+
+python-dotenv
+
+pypdf
+PyPDF2
+pymupdf
+bs4
+lxml
+html5lib
+
+arxiv
+wikipedia
+
+chromadb
