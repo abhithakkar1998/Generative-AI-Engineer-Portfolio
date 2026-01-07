@@ -39,6 +39,8 @@ langchain-openai
 langchain-ollama
 langchain_huggingface
 langchain-chroma
+langchain-groq
+langserve
 
 openai
 ipykernel
@@ -61,3 +63,7 @@ faiss-cpu
 sentence-transformers
 
 streamlit
+
+fastapi
+uvicorn
+sse_starlette
