@@ -42,6 +42,7 @@ langchain-chroma
 langchain-groq
 langchain-google-genai
 langserve
+langgraph
 
 openai
 ipykernel
@@ -68,3 +69,5 @@ streamlit
 fastapi
 uvicorn
 sse_starlette
+
+pydantic
