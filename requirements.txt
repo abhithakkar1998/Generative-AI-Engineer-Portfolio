@@ -40,6 +40,7 @@ langchain-ollama
 langchain_huggingface
 langchain-chroma
 langchain-groq
+langchain-google-genai
 langserve
 
 openai
