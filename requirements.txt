@@ -58,6 +58,7 @@ html5lib
 
 arxiv
 wikipedia
+ddgs
 
 chromadb
 faiss-cpu
