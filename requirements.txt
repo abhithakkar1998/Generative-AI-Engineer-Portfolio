@@ -72,3 +72,5 @@ uvicorn
 sse_starlette
 
 pydantic
+
+mysql-connector-python
