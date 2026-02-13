@@ -64,6 +64,7 @@ chromadb
 faiss-cpu
 
 sentence-transformers
+huggingface_hub
 
 streamlit
 
