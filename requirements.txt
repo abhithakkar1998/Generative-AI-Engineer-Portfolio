@@ -43,6 +43,7 @@ langchain-groq
 langchain-google-genai
 langchain-astradb
 langchain_aws
+langchain-nvidia-ai-endpoints
 langserve
 langgraph
 
