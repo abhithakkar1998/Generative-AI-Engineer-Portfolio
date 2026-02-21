@@ -2,8 +2,6 @@
 
 This repository showcases various mini projects and fundamental concepts in Generative AI engineering. Below is a comprehensive overview of each project and the topics covered.
 
-## Mini Projects
-
 ### 1. Deep Learning Fundamentals
 - Introduction to Neural Networks
 - Overview of Convolutional Neural Networks (CNN)
